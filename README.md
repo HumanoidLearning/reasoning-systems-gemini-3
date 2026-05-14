@@ -1,4 +1,4 @@
-# The Vastness of Existence and the Fortified Cradle: A Dialogue on Cosmic Survival
+# Life, the Universe, and Governance of Reasoning Systems
 
 ## Introduction
 This document contains a transcript of a deep-dive conversation between a human and an AI regarding the mathematical encoding of cosmic scale, the probability of life, and the strategies for long-term civilizational survival in a hostile universe.
